@@ -1,5 +1,15 @@
-<<<<<<< HEAD
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Commuter's Rail Board
+React based real time commuter's rail board using meta's V3 API
+
+#Steps to run the code: 
+1. Download the code
+2. In the directory of the project, run npm install (Install all the dependencies)
+3. Run npm start and react will take care of the rest
+
+#Best practices to use the platform: 
+1. Look for the id of the station to be searched using the Stops Chart on the landing page (Use Ctrl+F to find the station)
+2. Use the corresponding Stop ID to search for a particular station
+3. The train schedule is displayed keeping the Stop as a benchmark
 
 ## Available Scripts
 
@@ -68,11 +78,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 =======
-# Commuter's Rail Board
-React based real time commuter's rail board using meta's V3 API
 
-#Steps to use the platform: 
-1. Look for the id of the station to be searched using the Stops Chart on the landing page (Use Ctrl+F to find the station)
-2. Use the corresponding Stop ID to search for a particular station
-3. The train schedule is displayed keeping the Stop as a benchmark
 >>>>>>> 743cfd66c68852ebbf091e7c2f349a685f573695
