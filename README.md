@@ -1,5 +1,5 @@
 # Commuter's Rail Board
-React based real time commuter's rail board using meta's V3 API
+React based real time commuter's rail board using mbta's V3 API
 
 #Steps to run the code: 
 1. Download the code
